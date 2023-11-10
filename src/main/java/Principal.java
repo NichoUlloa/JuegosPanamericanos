@@ -27,9 +27,5 @@ public class Principal {
 
         System.out.println(juegosPanamericanos.toString());
 
-
-
-
-
     }
 }

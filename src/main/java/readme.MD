@@ -12,3 +12,4 @@ Clases:
 donde cada una de estas clases debe tener sus respectivos atributos,
 constructores, getters, setters y métodos necesarios para que el 
 sistema funcione correctamente.
+- 
